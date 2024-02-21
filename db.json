@@ -18,28 +18,28 @@
   },
   "employees": [
     {
-      "id": "1",
       "firstName": "Nancy",
       "lastName": "Gladdis",
       "email": "ngladdis5i@posterous.com",
-      "dob": "2001-11-15T10:33:48Z",
-      "gender": "Female",
-      "education": "Graduate",
+      "dob": "2001-11-07T18:30:00.000Z",
+      "gender": "female",
       "company": "Flashpoint",
+      "education": "Graduate",
       "experience": 20,
-      "package": 17
+      "package": 17,
+      "id": "1"
     },
     {
-      "id": "2",
       "firstName": "Rhona",
       "lastName": "Pickup",
       "email": "rpickup5j@yandex.ru",
       "dob": "1985-03-06T18:31:22Z",
-      "gender": "Female",
-      "education": "Intermediate",
+      "gender": "female",
       "company": "Photobug",
+      "education": "Intermediate",
       "experience": 2,
-      "package": 16
+      "package": 16,
+      "id": "2"
     },
     {
       "id": "3",
