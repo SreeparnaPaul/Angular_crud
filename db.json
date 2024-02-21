@@ -40,18 +40,6 @@
       "experience": 2,
       "package": 16,
       "id": "2"
-    },
-    {
-      "id": "3",
-      "firstName": "Akash",
-      "lastName": "Kumar",
-      "email": "akash.k@gmail.com",
-      "dob": "1987-12-10T18:30:00.000Z",
-      "gender": "male",
-      "company": "Google",
-      "education": "Graduate",
-      "experience": 6,
-      "package": 30
     }
   ]
 }
